@@ -11,6 +11,13 @@ Me apasiona el análisis de datos, el desarrollo de soluciones basadas en machin
 - 📩 **Contacto directo:** daniel.ayala.alvarez@gmail.com  
 
 ---
+## 🚀 Proyecto Destacado
+
+### 🧠 Data Science Portfolio
+Este portafolio reúne proyectos desarrollados durante mi formación en Ciencia de Datos, aplicando técnicas de análisis exploratorio, inferencia estadística, machine learning y big data.  
+🔐 **Tecnologías:** Python · Pandas · Matplotlib · TensorFlow/Keras · PySpark
+
+---
 
 ## ⚙️ Tecnologías y Herramientas
 
